@@ -22,7 +22,7 @@ This project compares two implementations of a neural network that predicts crop
 - **Feature Scaling**
 - **Architecture**: Feedforward neural network with two hidden layer (same as TensorFlow/Keras)
 - **Activation Function**: Sigmoid for hidden layer, Linear for output
-- **Optimizer**
+- **Optimizer**: Gradient Descent with computed derivatives (backpropagation)
 - **Regularization**
 - **Early Stopping**
 
